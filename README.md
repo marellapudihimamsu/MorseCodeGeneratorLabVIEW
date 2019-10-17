@@ -1,0 +1,2 @@
+# MorseCodeGeneratorLabVIEW
+LabVIEW Mini Project
